@@ -1,0 +1,53 @@
+[
+    {
+        "domain": "tensor.art",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ta-dark",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "dark"
+    },
+    {
+        "domain": "tensor.art",
+        "expirationDate": 1704554527,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pdfcc",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": "tensor.art",
+        "expirationDate": 1705157528.65093,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ta_timezone",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "Asia/Calcutta"
+    },
+    {
+        "domain": ".tensor.art",
+        "expirationDate": 1709405590.16617,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ta_token_prod",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjY0NjQxNzk3ODc1NzMzNDc0NywiZGV2aWNlSWQiOiJnU1c5aFlnQ3hlbVFlekZLRE9welIiLCJyZWZyZXNoVG9rZW4iOiIiLCJleHBpcmVUaW1lIjoyNTkyMDAwLCJleHAiOjE3MDY4MTM1OTh9.4pkaDBViHNctnYT8I5wKsu_IQCMnyYUEnHqIxFxpU1Y"
+    }
+]
