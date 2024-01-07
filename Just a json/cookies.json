@@ -13,7 +13,7 @@
     },
     {
         "domain": "tensor.art",
-        "expirationDate": 1704554527,
+        "expirationDate": 1704624634,
         "hostOnly": true,
         "httpOnly": false,
         "name": "pdfcc",
@@ -26,7 +26,7 @@
     },
     {
         "domain": "tensor.art",
-        "expirationDate": 1705157528.65093,
+        "expirationDate": 1705227639.689733,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ta_timezone",
